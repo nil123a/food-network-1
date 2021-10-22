@@ -67,4 +67,100 @@ h1{
     padding-bottom: 0%;
 }
 
+#recipie{
+    text-align: center;
+    margin-top: 5%;
+}
+.paragraph{
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.my-photo{
+    display: flex;
+   
+   
+}
+.my-photo div{
+    box-shadow: 20px 20px 20px 100px rgb(250, 248, 248);
+
+}
+#detals{
+    inline-size: 20%;
+    border: 7px solid white;
+    padding: 5px;
+    margin: 5%;
+    border-image: linear-gradient(
+        180deg,white);
+        border-radius: 5%;
+}
+#nil{
+    inline-size: 20%;
+    border: 7px solid white;
+    padding: 5px;
+    margin: 5%;
+    border-image: linear-gradient(
+        180deg,white);
+        border-radius: 5%;
+}
+#hk-hasib{
+    inline-size: 20%;
+    border: 7px solid white;
+    padding: 5px;
+    margin: 5%;
+    border-image: linear-gradient(
+        180deg,white);
+        border-radius: 5%;
+
+}
+#jahid{
+    display: flex;
+   
+    margin: 5%;
+    box-shadow: 20px 20px 20px 100px rgb(250, 248, 248);
+    border-image: linear-gradient(
+        180deg,white);
+        border-radius: 5%;
+   
+}
+#hasan{
+    padding-left: 10%;
+
+}
+#rony{
+    padding-left: 20%;
+
+}
+#sakib{
+    padding-left: 30%;
+}
+footer{
+    background-color: black;
+    height: 300px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+   
+
+}
+#thanks{
+    text-align: center;
+    margin-top: 20%;
+    padding-top: 3%;
+}
+.hmmmmm{
+    color: blue;
+
+}
+.mmmmmmmm{
+    color: rgb(245, 136, 136);
+    
+}
+.welcome{
+    color: azure;
+    text-align: center  ;
+    margin-top: 5%;
+    font-size: 30px;
+
+}
+
 
